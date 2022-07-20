@@ -6,7 +6,7 @@ when they start to buy, how much money each customer brings, when they pay off, 
 <b> The repository contains: </b>
 
 <ul>
-<li> Notebook with product, sales and marketing expenses analysis: optimize marketing expenses for Yandex.Afisha.ipynb </li>
+<li> Notebook with product, sales and marketing costs analysis: optimize marketing expenses for Yandex.Afisha.ipynb </li>
 <li> dataset: costs_us.csv </li>
 <li> dataset: orders_log_us.csv </li>
 <li> dataset: visits_log_us.csv </li>
